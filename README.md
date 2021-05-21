@@ -2,19 +2,17 @@
 <h2>About the Project</h2>
 <p>The LinkedIn-clone web application presents a custom LinkedIn-clone.The APP is created with the latest industry standards using React.js and Redux Toolkit Firebase is used for the backend<p>
 
-<h2>Functionalities</h2>
-<br>
+<h2>Functionalities</h2><br>
 Users can register using Full name, image url, email, and password.
 Logged in users can can view other peoples posts and can add their own post in the feed.
 Users can click on avatar on the navbar to sign out
 
 
-<h3>Live Link</h3>
-<br>
+<h3>Live Link</h3><br>
 Project live link: 
 https://linkedin-clone-yt-e39dd.web.app/
 
-<h2>Technologies Used</h2>
+<h2>Technologies Used</h2><br>
 React
 Redux
 Material UI
