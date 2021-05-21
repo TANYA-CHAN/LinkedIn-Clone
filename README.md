@@ -42,7 +42,6 @@ Run npm start to start the webpack server, you can now navigate to http://localh
 <p> 
   
 <h2>Tests</h2>
-<br>
 Open Terminal
 <br>
 Install dependencies :
@@ -52,4 +51,5 @@ Run the tests with the command:
 npm test
 <br>
 
-<h2>Contributors/Authors</h2> - TANYA-CHAN
+<h2>Contributors/Authors</h2>
+- TANYA-CHAN
