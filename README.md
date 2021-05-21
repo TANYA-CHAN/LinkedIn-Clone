@@ -13,14 +13,14 @@ Project live link:
 https://linkedin-clone-yt-e39dd.web.app/
 
 <h2>Technologies Used</h2>
-<li>
-React
-Redux
-Material UI
-Firebase's Firestore
-Firebase's Authentication
-Git
-  </li>
+<ul>
+  <li>React</li>
+  <li>Redux</li>
+  <li>Material UI</li>
+  <li>Firebase's Firestore</li>
+  <li>Firebase's Authentication</li>
+  <li>Git</li>
+  </ul>
   
   
 <h2>Installation</h2>
