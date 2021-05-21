@@ -2,13 +2,13 @@
 <h2>About the Project</h2>
 <p>The LinkedIn-clone web application presents a custom LinkedIn-clone.The APP is created with the latest industry standards using React.js and Redux Toolkit Firebase is used for the backend<p>
 
-<h2>Functionalities</h2><br>
+<h2>Functionalities</h2>
 Users can register using Full name, image url, email, and password.
 Logged in users can can view other peoples posts and can add their own post in the feed.
 Users can click on avatar on the navbar to sign out
 
 
-<h3>Live Link</h3><br>
+<h3>Live Link</h3>
 Project live link: 
 https://linkedin-clone-yt-e39dd.web.app/
 
@@ -26,7 +26,7 @@ To get this project set up on your local machine, follow these simple steps:
 <p>
 Step 1
 Navigate through the local folder where you want to clone the repository and run.
-git clone https://github.com/TANYA-CHAN/LinkedIn-Clone-Using-React-Redux.git. It will clone the repo to your local folder.
+git clone this .git. It will clone the repo to your local folder.
 Step 2
 Run cd LinkedIn-Clone-Using-React-Redux
 Step 3
