@@ -10,7 +10,7 @@ Users can click on avatar on the navbar to sign out.
 
 <h2>Live Link</h2>
 Project live link: 
-https://linkedin-clone-yt-e39dd.web.app/
+<a href="https://linkedin-clone-yt-e39dd.web.app/">link</a>
 
 <h2>Technologies Used</h2>
 <ul>
